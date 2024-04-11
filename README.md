@@ -9,7 +9,7 @@ This dashboard showcases an understanding of Amazon Prime TV shows and movies ba
 3. **Create Card Visuals:** Generate Card visuals and format them as necessary.
    
 > [!IMPORTANT]
-> Make sure that Correct filed value is selected like distinct count ,Max, Min etc..
+> Make sure that the Correct filed value is selected like distinct count , Max, Min etc..
 
 4. **Field Mapping:** Develop a field map for the total shows per country. Apply filtering to remove null values and format the chart appropriately. Ensure the correct field value is selected, such as distinct count.
 5. **Type Distribution:** Create a donut chart displaying types, including only movies and TV shows. Apply filtering to select only these two types and format the chart accordingly.
