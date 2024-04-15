@@ -28,6 +28,7 @@ This dashboard showcases an understanding of Amazon Prime TV shows and movies ba
 **References:**
 
 1. Can download [Datasets]( https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows) from Kaggle.
+2. [ref](https://www.youtube.com/watch?v=_xs8XXlGQVM).
 
 
 
